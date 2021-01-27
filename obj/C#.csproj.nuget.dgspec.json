@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Magnu\\iCloudDrive\\C#\\C#.csproj": {}
+    "C:\\Users\\Magnu\\iCloudDrive\\C#\\TiOpgaver\\C#.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Magnu\\iCloudDrive\\C#\\C#.csproj": {
+    "C:\\Users\\Magnu\\iCloudDrive\\C#\\TiOpgaver\\C#.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Magnu\\iCloudDrive\\C#\\C#.csproj",
+        "projectUniqueName": "C:\\Users\\Magnu\\iCloudDrive\\C#\\TiOpgaver\\C#.csproj",
         "projectName": "C#",
-        "projectPath": "C:\\Users\\Magnu\\iCloudDrive\\C#\\C#.csproj",
+        "projectPath": "C:\\Users\\Magnu\\iCloudDrive\\C#\\TiOpgaver\\C#.csproj",
         "packagesPath": "C:\\Users\\Magnu\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Magnu\\iCloudDrive\\C#\\obj\\",
+        "outputPath": "C:\\Users\\Magnu\\iCloudDrive\\C#\\TiOpgaver\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
