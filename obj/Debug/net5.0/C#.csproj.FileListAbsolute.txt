@@ -1,0 +1,16 @@
+C:\Users\Magnu\iCloudDrive\C#\bin\Debug\net5.0\C#.exe
+C:\Users\Magnu\iCloudDrive\C#\bin\Debug\net5.0\C#.deps.json
+C:\Users\Magnu\iCloudDrive\C#\bin\Debug\net5.0\C#.runtimeconfig.json
+C:\Users\Magnu\iCloudDrive\C#\bin\Debug\net5.0\C#.runtimeconfig.dev.json
+C:\Users\Magnu\iCloudDrive\C#\bin\Debug\net5.0\C#.dll
+C:\Users\Magnu\iCloudDrive\C#\bin\Debug\net5.0\ref\C#.dll
+C:\Users\Magnu\iCloudDrive\C#\bin\Debug\net5.0\C#.pdb
+C:\Users\Magnu\iCloudDrive\C#\obj\Debug\net5.0\C#.csprojAssemblyReference.cache
+C:\Users\Magnu\iCloudDrive\C#\obj\Debug\net5.0\C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Magnu\iCloudDrive\C#\obj\Debug\net5.0\C#.AssemblyInfoInputs.cache
+C:\Users\Magnu\iCloudDrive\C#\obj\Debug\net5.0\C#.AssemblyInfo.cs
+C:\Users\Magnu\iCloudDrive\C#\obj\Debug\net5.0\C#.csproj.CoreCompileInputs.cache
+C:\Users\Magnu\iCloudDrive\C#\obj\Debug\net5.0\C#.dll
+C:\Users\Magnu\iCloudDrive\C#\obj\Debug\net5.0\ref\C#.dll
+C:\Users\Magnu\iCloudDrive\C#\obj\Debug\net5.0\C#.pdb
+C:\Users\Magnu\iCloudDrive\C#\obj\Debug\net5.0\C#.genruntimeconfig.cache
