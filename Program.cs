@@ -23,6 +23,15 @@ namespace TiOpgaver
 					case 3:
 						FindLigeTal();
 						break;
+					case 4:
+						StrengIOmvendtRaekkefolge();
+						break;
+					case 5:
+						Palindrom();
+						break;
+					case 6:
+						AntalOrd();
+						break;
 				}
 
 				// opgave 1
@@ -68,6 +77,56 @@ namespace TiOpgaver
 					}
 					Console.ReadLine();
 				}
+
+				// opgave 4
+				static void StrengIOmvendtRaekkefolge()
+				{
+					string input = "qwerty";
+					string output = "";
+					char[] array = input.ToCharArray();
+					Array.Reverse(array);
+					foreach (char c in array)
+					{
+						output += c;
+					}
+					Console.WriteLine();
+					Console.WriteLine($"{input} => {output}");
+					Console.ReadLine();
+				}
+
+				// opgave 5
+				static void Palindrom()
+				{
+					Console.WriteLine("Skriv et ord");
+					string input = Console.ReadLine();
+					string output = "";
+					char[] array = input.ToCharArray();
+					Array.Reverse(array);
+					foreach (char c in array)
+					{
+						output += c;
+					}
+					Console.WriteLine();
+					if (input == output)
+					{
+						Console.WriteLine($"{input} => True");
+					}
+					else
+					{
+						Console.WriteLine($"{input} => False");
+					}
+					Console.ReadLine();
+				}
+
+				// opgave 6
+				static void AntalOrd()
+				{
+					Console.WriteLine("Skriv en saetning");
+					string input = Console.ReadLine();
+					string[] output = input.Split(" ");
+					Console.WriteLine($"Antal ord = {output.Length}");
+				}
+
 			}
 		}
 	}
